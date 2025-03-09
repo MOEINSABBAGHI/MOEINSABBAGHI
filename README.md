@@ -42,9 +42,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Unreal_Engine_Logo.svg" alt="unreal" width="60" height="60"/>
-  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/>
 </p>
 
 
