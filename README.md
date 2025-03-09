@@ -43,7 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Unreal_Engine_Logo.svg" alt="unreal" width="60" height="60"/>
   </a>
 </p>
 
