@@ -45,7 +45,6 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="60" height="60"/>
   </a>
-  </a>
 </p>
 
 
