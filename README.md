@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack 💻
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: white; padding: 10px;">
+<p align="left" style="background-color: rgb(255, 255, 255); padding: 10px;">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>
   </a>
