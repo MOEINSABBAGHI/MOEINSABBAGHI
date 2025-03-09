@@ -2,7 +2,6 @@
 🎯 I’m currently working on React.js and improving my frontend skills.<br>🤝 I’m looking to collaborate on Web development, app development, and artificial intelligence projects.<br>🚀 I’m looking for help with Nothing specific, just aiming to deepen my expertise.<br>🌱 I’m currently learning Python and Node.js to expand my backend capabilities.<br>💬 Ask me about JavaScript, React, and WordPress—I’d be happy to help!<br>⚡ Fun facts:<br>My keyboard is extremely important to me! 💻⌨️<br>No matter how skilled I am in a field, I never act superior or arrogant. 🤮
 
 
-https://MOEINSABBAGHI.github.io/RGB_Keyboard
 
 ## 🌐 Socials 🌐
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moeinblacktiger55@gmail.com) 
