@@ -1,13 +1,14 @@
 # 💤 About Me 💤
 🎯 I’m currently working on React.js and improving my frontend skills.<br>🤝 I’m looking to collaborate on Web development, app development, and artificial intelligence projects.<br>🚀 I’m looking for help with Nothing specific, just aiming to deepen my expertise.<br>🌱 I’m currently learning Python and Node.js to expand my backend capabilities.<br>💬 Ask me about JavaScript, React, and WordPress—I’d be happy to help!<br>⚡ Fun facts:<br>My keyboard is extremely important to me! 💻⌨️<br>No matter how skilled I am in a field, I never act superior or arrogant. 🤮
 
+![image](https://github.com/user-attachments/assets/31388be8-421d-4669-8378-5d63a1071a6f)
 
 ## 🌐 Socials 🌐
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moeinblacktiger55@gmail.com) 
 
 # 💻 Tech Stack 💻
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: white !important; padding: 10px;">
+<p align="left" style="background-color: white; padding: 10px;">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>
   </a>
