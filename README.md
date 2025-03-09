@@ -1,6 +1,7 @@
 # 💤 About Me 💤
 🎯 I’m currently working on React.js and improving my frontend skills.<br>🤝 I’m looking to collaborate on Web development, app development, and artificial intelligence projects.<br>🚀 I’m looking for help with Nothing specific, just aiming to deepen my expertise.<br>🌱 I’m currently learning Python and Node.js to expand my backend capabilities.<br>💬 Ask me about JavaScript, React, and WordPress—I’d be happy to help!<br>⚡ Fun facts:<br>My keyboard is extremely important to me! 💻⌨️<br>No matter how skilled I am in a field, I never act superior or arrogant. 🤮
 
+![ezgif-25b0972b5cf97c](https://github.com/user-attachments/assets/bdd44b91-9789-4552-8141-9126f8fd77b0)
 
 
 ## 🌐 Socials 🌐
