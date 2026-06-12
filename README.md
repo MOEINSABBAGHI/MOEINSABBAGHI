@@ -7,14 +7,8 @@
 # 💻 Tech Stack 💻
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: rgb(255, 255, 255); padding: 10px;">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" >
     <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
