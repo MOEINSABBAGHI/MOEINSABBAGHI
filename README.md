@@ -19,7 +19,7 @@
 ---
 
 ## 💻 Tech Stack 💻
-![skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,cpp,git,github,vscode)
+![skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,wordpress,vscode)
 
 ### 📊 Data Science / ML
 ![skills](https://skillicons.dev/icons?i=python)
